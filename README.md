@@ -1,4 +1,4 @@
-[![Header](https://github.com/lorenzosg/lorenzosg/blob/58424411bec7f4000ccf26ce2627f701974c0e49/Screen%20Shot%202021-10-10%20at%206.50.38%20PM.PNG) "Header")](https://some-url.dev/)
+[![Header][(https://github.com/lorenzosg/lorenzosg/blob/51ad7f7c703586246c20c4645a905529fead217d/network_moby.pdf) "Header")](https://some-url.dev/)
 
 ## Hi there 👋
 
