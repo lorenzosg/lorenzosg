@@ -1,4 +1,4 @@
-[![Header][(https://github.com/lorenzosg/lorenzosg/blob/51ad7f7c703586246c20c4645a905529fead217d/network_moby.pdf) "Header")](https://some-url.dev/)
+[![Header](https://github.com/lorenzosg/lorenzosg/blob/51ad7f7c703586246c20c4645a905529fead217d/network_moby.pdf) "Header")](https://some-url.dev/)
 
 ## Hi there 👋
 
