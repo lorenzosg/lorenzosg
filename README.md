@@ -6,14 +6,15 @@
    - I developed a machine learning model which explains 50% of the variation in wage increases for 440+ US workers. Find it here in my MOBY repo:
 
 🛍️ ever wonder which clothing item will improve your style the most?
-   - I'm working on an algorithm which learns the wisdom of your favorite stylists, and helps you to complete the greatest number of cool fits 😎
-   - The code is here in the no-scroll repo: 
+   - I'm working on an [algorithm](https://github.com/lorenzosg/MOBY) which learns the wisdom of your favorite stylists, and helps you to complete the greatest number of cool fits 😎
+
 
 👷‍♂️ one of the greatest joys of learning to code is finding a better way to solve old organizational problems
    - One fun example is when I used the Ekata fraud detection prevention API to validate the contacts of ShowMe Aquatics so they could start fundraising.
    - Find the R code here: 
     
 Any questions or comments?
+
 📧 - lorenzogiamartino@icloud.com
 
 Lorenzo Giamartino
