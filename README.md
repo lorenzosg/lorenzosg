@@ -1,6 +1,6 @@
 
 
-#### Welcome! How confident are you that this page is a good use of your time? Maybe someone else's code and knowledge would be more useful to you. I'm a data scientist and quantitative researcher stubborn about engineering optimal search and reccomendation algorithms which can be shown empirically to improve business, economic, and social conditions. Below you'll find links to my naive attempts applying machine learning methods to learn and implement such algorithms. 
+#### Welcome! How confident are you that this page is a good use of your time? Maybe someone else's code and knowledge would be more useful to you. I'm a data scientist stubborn about engineering optimal search and reccomendation algorithms which can be shown empirically to improve business, economic, and social conditions. Below you'll find links to my naive attempts applying machine learning methods to learn and implement such algorithms. 
 
 💰 which work activities facilitate the greatest amount of econonomic mobility? 
    - I built a machine learning model which explains 50% of the variation in wage increases for 440+ US workers. [Find it here in my MOBY repo!](https://github.com/lorenzosg/MOBY)
