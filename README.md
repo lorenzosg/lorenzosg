@@ -21,4 +21,4 @@ Any questions or comments?
 
 Lorenzo Giamartino
 
-MA candidate in Quantitative Research Methods (QMSS) 2024, Columbia Unviversity 
+MA in Data Science (QMSS) 2024, Columbia Unviversity 
